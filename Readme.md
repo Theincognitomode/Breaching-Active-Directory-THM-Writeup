@@ -7,3 +7,9 @@ Before going through this make sure to read what Active directory is or you can 
 
 
 Now lets get started with the Room!!
+
+
+
+**After completing the room successfully make sure to revert back the DNS changes** ...
+
+![image](https://github.com/Theincognitomode/Breaching-Active-Directory-THM-Writeup/assets/73027020/6410956e-49a5-41bd-92df-77b74c94bed4)
