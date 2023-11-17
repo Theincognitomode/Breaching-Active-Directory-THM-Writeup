@@ -51,6 +51,14 @@ If all the commands are executed without any fail then the shell should look som
 
 **Make sure to place the PXE boot image location..**
 
+Now procced with these steps: 
+
+![image](https://github.com/Theincognitomode/Breaching-Active-Directory-THM-Writeup/assets/73027020/36cb99f0-d8b6-4e3a-b18c-d7a37983c1d9)
+
+![image](https://github.com/Theincognitomode/Breaching-Active-Directory-THM-Writeup/assets/73027020/92bc6293-98b1-4a95-811e-20b6aeead9fe)
+
+After making the changes it will look something like this 
+
 This command will take a around 3-4 mins..
 
 After that execute this command :
